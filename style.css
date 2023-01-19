@@ -1,0 +1,22 @@
+.slide-icon {
+    background-color: red;
+
+}
+
+.footer-text {
+    color: white;
+}
+
+.footer-text a {
+    color: white;
+}
+.footer-icons{
+    padding-bottom: 16px;
+}
+
+.footer-icons img {
+    width: 135px;
+    height: 40px;
+    margin-bottom: 16px;
+
+}
